@@ -1,4 +1,4 @@
-# -training-maths
+# training-maths
 
 This app is designed for Grade 1, Grade 2 and Grade 3 students to practice thousands of questions every day for free.
 
